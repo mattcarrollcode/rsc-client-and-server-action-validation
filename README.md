@@ -1,5 +1,7 @@
 ## React Server Action Client and Server Validation Example
 
+![Demo GIF](https://github.com/mattcarrollcode/rsc-client-and-server-action-validation/blob/main/demo.gif)
+
 1. Install dependencies: `pnpm install`
 1. Start the dev server: `pnpm run dev`
 1. Go to [http://localhost:3000](http://localhost:3000)
